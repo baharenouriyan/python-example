@@ -1,2 +1,20 @@
-داخل این ریپازیتوری من تمامی تمرین ها و فایل هایی که میتونه برای تمرین شما مفید باشه رو میزارم 
-و هر فایل جداگونه برای یک تمرین هستش
+# Python Exercises
+
+This repository contains Python exercises I solved to learn Python programming from scratch.  
+It includes examples of loops, conditional statements, lists, and functions.
+
+## Contents
+- Loops (for / while)
+- Conditional statements (if / else)
+- Lists and array manipulation
+- Functions and return values
+- Miscellaneous Python exercises
+
+## How to use
+1. Clone the repository:
+   `bash
+   git clone https://github.com/baharenouriyan/python-exercises.git
+
+
+   ## Author
+- Bahare Nouriyan - [GitHub Profile](https://github.com/baharenouriyan)
